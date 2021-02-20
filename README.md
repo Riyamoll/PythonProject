@@ -5,6 +5,8 @@
 
 IDE Used: Pycharm 2020.2.3
 
+Python 3.7.8
+
 Run main.py to run the entire test
 
 # Packages installed
