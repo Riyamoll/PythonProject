@@ -7,8 +7,8 @@ IDE Used: Pycharm 2020.2.3
 
 Run main.py to run the entire test
 
-Package           Version
------------------ ---------
+# Packages installed
+
 beautifulsoup4    4.9.3
 bs4               0.0.1
 certifi           2020.12.5
