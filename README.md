@@ -16,8 +16,6 @@ bs4               0.0.1
 certifi           2020.12.5
 chardet           4.0.0
 idna              2.10
-Jinja2            2.11.3
-MarkupSafe        1.1.1
 oauthlib          3.1.0
 pip               21.0.1
 requests          2.25.1
