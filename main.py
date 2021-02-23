@@ -14,11 +14,10 @@ import form
 
 # Assert all data displayed in the redirected page is as in the form
 def verify_form():
-    redirect_url = "https://rpmsoftware.com/hiring/2020/integration-test/form.html#"
+    redirect_url = "https://rpmsoftware.com/hiring/2020/integration-test/form.html?"
     current_url = form.driver.current_url
     if (current_url != redirect_url):
         print("Failed to load the redirected page "+redirect_url)
-    form.driver.get(redirect_url)    # getting the redirect_url as the submit button doesn't work just for testing purposes
     testName = form.driver.find_element_by_xpath('/html/body/div/div[2]/div[2]/span[2]').text
     assert testName == form.employeeData
 
