@@ -30,4 +30,4 @@ a. Issue : Redirection to the newurl not working
 b. Description: After filling the form, when clicked submit button, it doesn't successfully navigate to the new page
 c. Expected behaviour: When clicked on the submit button, it should successfully navigate to a new url to show the submitted form.
 Note: I have added a redirection for myself to show the expected behaviour. It will show the failure in the logs
-
+d: Issue Status: Fixed
