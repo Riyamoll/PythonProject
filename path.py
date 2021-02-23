@@ -26,5 +26,5 @@ carColor1 = '/html/body/div/div/div[16]/span[2]/div/table/tbody/tr[2]/td[6]/div/
 carColor2 = '/html/body/div/div/div[16]/span[2]/div/table/tbody/tr[3]/td[6]/div/div/div/input'
 license1 = '/html/body/div/div/div[16]/span[2]/div/table/tbody/tr[2]/td[7]/div/div/div/input'
 license2 = '/html/body/div/div/div[16]/span[2]/div/table/tbody/tr[3]/td[7]/div/div/div/input'
-submit = '/html/body/div/div/div[18]/button'
+submit = '/html/body/div/div/div[18]/form/button'
 
